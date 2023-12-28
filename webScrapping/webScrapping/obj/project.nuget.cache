@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "stJhTK1TIsPZaNFf177icYfQYd54do1oemakyJ2Ll5ByJemxD79AFLEu8D0Y8164nWqEDBVFsV93BzRpIB32eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\meteh\\Desktop\\20360859063_MetehanSozenli\\webScrapping\\webScrapping\\webScrapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meteh\\.nuget\\packages\\htmlagilitypack\\1.11.57\\htmlagilitypack.1.11.57.nupkg.sha512"
+  ],
+  "logs": []
+}
